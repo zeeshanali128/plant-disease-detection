@@ -1,0 +1,16 @@
+node_modules
+venv
+venv_tf
+.git
+.gitignore
+README.md
+dataset
+outputs
+*.pyc
+__pycache__
+.pytest_cache
+.DS_Store
+notebooks
+*.ipynb
+*.log
+tail_output.txt
